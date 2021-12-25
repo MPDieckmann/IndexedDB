@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src/",
+    "charset": "utf8",
+    "declaration": true,
+    "declarationDir": "dist/js",
+    "declarationMap": true,
+    "sourceMap": true,
+    "inlineSourceMap": true,
+    "pretty": false,
+    "outDir": "dist/js",
+    "target": "ESNext"
+  },
+  "include": [
+    "src/ts"
+  ]
+}
